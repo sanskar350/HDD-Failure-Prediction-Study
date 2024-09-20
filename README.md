@@ -234,8 +234,10 @@ adaptations from CRISP-DM frameworks according to what fits best within current 
 Chapter 4: Experiments – This chapter discusses about conducting experiments utilizing
 Backblaze data to provide an overview of results with comparisons between different tested
 methodologies.
-Chapter 5: Discussion – This chapter discusses the experiments of this research, and the
+
+hapter 5: Discussion – This chapter discusses the experiments of this research, and the
 objectives will be critically analysed. This chapter also discusses limitations plus possibilities for
 future research beyond its current focus.
+
 Chapter 6: Conclusion – This chapter concludes this study by summarizing key findings and then
 outlining their implications for HDD failure prediction.
