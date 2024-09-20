@@ -1,0 +1,8 @@
+,G-mean,F1,Precision,FDR,FAR,Recall
+Balanced Random Forest,0.913083,0.003422,0.001714,0.876628,0.048611,0.876628
+Random Forest,0,0,0,0,0.000014,0
+Random Forest with Random under sampling,0.915038,0.003613,0.00181,0.878215,0.046236,0.878215
+Weighted Logistic Regression,0.901823,0.006883,0.003456,0.832321,0.02271,0.832321
+Weighted Logistic Regression with random Undersampling,0.747562,0.014172,0.007177,0.563317,0.007444,0.563317
+Balanced Bagging with Hist Gradient,0.914767,0.005266,0.002641,0.863992,0.031159,0.863992
+Smote bagging with RF,0.152879,0.034998,0.057117,0.025297,0.000042,0.025297
