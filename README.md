@@ -222,12 +222,15 @@ Backblaze 2022 datasets?
 Chapter 1: Introduction – This chapter considers prior HDD failure prediction options, defines the
 issue, and provides background information. We also examine SMART attributes within HDDs and
 describe our research’s objectives and goals.
+
 Chapter 2: Literature Review – This chapter examines numerous techniques for handling
 imbalanced datasets including sampling methods, feature selection methodologies, plus
 performance measures alongside relevant literature overviews covering these areas extensively.
+
 Chapter 3: Methodology – This chapter defines our methodology, evaluates potential risks
 involved, and identifies necessary resources for successfully completing this work utilizing
 adaptations from CRISP-DM frameworks according to what fits best within current requirements.
+
 Chapter 4: Experiments – This chapter discusses about conducting experiments utilizing
 Backblaze data to provide an overview of results with comparisons between different tested
 methodologies.
